@@ -1,3 +1,4 @@
+
 # Example component for testing Konflux
 
 This component can be used for testing Konflux -- specifically on a local setup (e.g.
